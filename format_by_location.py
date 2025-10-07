@@ -1,27 +1,8 @@
 """
-Name Cierra Britt
+Name Cierra B.
 Date: 10/06/2025
 
 This is for EPA Daily & Hourly PM2.5, PM10. NO2 Data: https://aqs.epa.gov/aqsweb/airdata/download_files.html#AQI
-
-Heres what I tried so far
-PM2.5 Specification 
-daily_SPEC_2025.zip
-1,780,031 Rows
-14,119 KB
-As of 2025-07-31
-
-PM10 Specification
-daily_PM10SPEC_2025.zip
-77,035 Rows
-1,005 KB
-As of 2025-07-31
-
-NO2 (42602)
-daily_42602_2025.zip
-47,646 Rows
-716 KB
-As of 2025-07-31
 
 This  script reshapes cleaned air-quality data (from PM₂.₅, PM₁₀, and NO₂ CSVs) into a wide, comparison-friendly format where each pollutant occupies its own column (e.g., Pollutant A (NO₂), Pollutant B (PM₂.₅), Pollutant C (PM₁₀)).
 It groups the data by location and date—using coordinates, site number, or region fields—and outputs either a single wide CSV or an Excel workbook with one sheet per location (similar to your “Philadelphia” and “Iowa” tabs).
