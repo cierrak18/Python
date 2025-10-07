@@ -4,25 +4,6 @@ Date: 10/06/2025
 
 This is for EPA Daily & Hourly PM2.5, PM10. NO2 Data: https://aqs.epa.gov/aqsweb/airdata/download_files.html#AQI
 
-Heres what I tried so far
-PM2.5 Specification 
-daily_SPEC_2025.zip
-1,780,031 Rows
-14,119 KB
-As of 2025-07-31
-
-PM10 Specification
-daily_PM10SPEC_2025.zip
-77,035 Rows
-1,005 KB
-As of 2025-07-31
-
-NO2 (42602)
-daily_42602_2025.zip
-47,646 Rows
-716 KB
-As of 2025-07-31
-
 Summary: 
 Pollution Data Cleaner (GUI Version)
 The Pollution Data Cleaner is a Python-based graphical user interface (GUI) tool designed to automate the cleaning, merging, and filtering of air quality datasets (PM₂.₅, PM₁₀, and NO₂). It streamlines the process of preparing both daily and hourly pollutant data for further analysis or visualization.
