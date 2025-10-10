@@ -1,0 +1,6 @@
+- 👋🏽 Hi, I’m Cierra.
+- 👀 This repository is where I explore data visualization, cleaning, and filtering large datasets using Python.
+- 🌱 I’m building my skills in organizing messy data, creating meaningful visuals, and experimenting with tools like Pandas, Matplotlib, and Seaborn.
+- 💞️ I’m open to feedback, collaboration, or ideas for improving how data is represented and understood.
+- 📫 You can reach me at ibritt.cierra@gmail.com
+- ⚡ Fun fact: I find cleaning data oddly relaxing—it’s like solving a giant digital puzzle!
